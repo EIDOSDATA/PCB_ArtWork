@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Change Component Footprint: Designator=C1 Old Footprint=Generic THT Ceramic -Footprint-1 New Footprint=THT Electrolythic 5x11x2mm
+Change Component Comment : Designator=C1 Old Comment=Generic THT Ceramic New Comment=Generic THT Electrolytic capacitor
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 New VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 Old ItemGUID=3c6b490f-c1f5-4b14-a35d-da3b35933540 New ItemGUID=750dea58-2bd7-47f7-a66d-42d15fde23dd Old RevisionGUID=5188743e-dbbc-48ee-8a69-82c961371991 New RevisionGUID=a30a744f-d68e-4b05-9458-f8cc32ded16a
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Generic THT Ceramic -Footprint-1"; UniqueID = "\TMWWDMRG" ("\TMWWDMRG")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Electrolythic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Various"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
