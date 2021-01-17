@@ -1,0 +1,11 @@
+Output: PADS ASCII Netlist
+Type  : PADSNetlist
+From  : Project [Atmega128_Project.PrjPcb]
+   Generated File[Sheet1.NET]
+   Generated File[Sheet1.PRT]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 10:59:17 On 2021-01-17

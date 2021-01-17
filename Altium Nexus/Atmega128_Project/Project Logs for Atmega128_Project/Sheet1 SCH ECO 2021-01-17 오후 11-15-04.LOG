@@ -1,0 +1,2 @@
+Remove Pin=J2-2 From Net=UART1 RX
+Remove Pin=U2-8 From Net=UART1 RX

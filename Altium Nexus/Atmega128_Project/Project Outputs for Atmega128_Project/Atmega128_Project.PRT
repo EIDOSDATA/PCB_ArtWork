@@ -1,0 +1,30 @@
+*PADS-PCB*
+*PART*
+C1     Generic 1608-Footprint-1
+C2     Generic 1608-Footprint-1
+C3     Generic 1608-Footprint-1
+C4     Generic 1608-Footprint-1
+C5     Generic 1608-Footprint-1
+C6     Generic 1608-Footprint-1
+C7     Generic 1608-Footprint-1
+C8     Generic 1608-Footprint-1
+C9     Generic 1608-Footprint-1
+C10    Generic 1608-Footprint-1
+C11    Generic 1608-Footprint-1
+C12    Generic 1608-Footprint-1
+C13    Generic 1608-Footprint-1
+D1     Generic 1608 LED BLUE-Footprint-1
+J1     LW0640-06
+J2     Molex 5267-03-Footprint
+J3     LW0640-02
+J4     Molex 5267-03-Footprint
+J5     61303221121
+J6     61303221121
+L1     FP-MLZ1608-MFG
+R1     Generic 1608-Footprint-1
+R2     Generic 1608-Footprint-1
+SW1    DJT1102A-Footprint-1
+U1     64A_N
+U2     DW0016A_N
+Y1     ATS-49-Footprint-1
+*END*
