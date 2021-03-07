@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5 Pin=J5-22
+Removed Pin From Net: NetName=+5 Pin=J6-14
+Added Member To Class: ClassName=Sheet1 Member=Component J3 Molex 5267-03
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 DJT1102A

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=UART1 RX Pin=J2-2
+Added Pin To Net: NetName=UART1 RX Pin=U?-8
+Added Net: Name=UART1 RX
