@@ -1,11 +1,10 @@
-Output: PADS ASCII Netlist
-Type  : PADSNetlist
-From  : Project [Atmega128_Project.PrjPcb]
-   Generated File[Sheet1.NET]
-   Generated File[Sheet1.PRT]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Atmega128.PcbDoc]
+   Generated File[Bill of Materials-Atmega128.xlsx]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 오후 10:59:17 On 2021-01-17
+Finished Output Generation At 오후 9:55:38 On 2021-03-21

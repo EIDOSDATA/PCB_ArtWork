@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=CMP-003-0004-3 New DesignItemId=CMP-003-0004-4
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CMP-003-0008-2 New DesignItemId=CMP-003-0008-4
+Change Component Footprint: Designator=J2 Old Footprint=LW0640-02 New Footprint=LW0640-02
+Change Component Footprint: Designator=J1 Old Footprint=LW0640-06 New Footprint=LW0640-06
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 New VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 Old ItemGUID=95455598-4256-4890-B9EC-D737740475BF New ItemGUID=95455598-4256-4890-B9EC-D737740475BF Old RevisionGUID=ba440c71-835f-4a6a-a7a5-9f7447b6ac15 New RevisionGUID=ccd93530-b932-4a11-90e2-67226dab2aa9
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 New VaultGUID=59B8B154-D511-4C13-A185-E0B3D5A33E80 Old ItemGUID=BD098C84-0F15-4FE6-B8DE-113E9A7FDE85 New ItemGUID=BD098C84-0F15-4FE6-B8DE-113E9A7FDE85 Old RevisionGUID=d7cc72b0-22fe-4e73-883b-bac56c8a83b7 New RevisionGUID=ed915b88-194b-4907-8403-2b3f859b19e8
+Change component parameters: Designator = "J1" ("J1"); Footprint = "LW0640-06"; UniqueID = "\CBIRJZGG" ("\CBIRJZGG")
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "LW0640-02"; UniqueID = "\SQUHBJZH" ("\SQUHBJZH")
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"

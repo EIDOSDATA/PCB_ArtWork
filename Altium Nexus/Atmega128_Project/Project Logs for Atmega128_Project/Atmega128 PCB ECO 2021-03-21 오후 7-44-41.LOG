@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=XTAL1 Pin=J5-23
+Removed Pin From Net: NetName=XTAL2 Pin=J5-24
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Ceramic/1608

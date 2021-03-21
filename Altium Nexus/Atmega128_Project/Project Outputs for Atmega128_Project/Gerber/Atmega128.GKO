@@ -1,0 +1,25 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium NEXUS,4.0.7 (54)*
+G04*
+G04 Layer_Color=16711935*
+%FSLAX44Y44*%
+%MOMM*%
+G71*
+G04*
+G04 #@! TF.SameCoordinates,2F636ACE-6931-4982-A4A6-23C36C612785*
+G04*
+G04*
+G04 #@! TF.FilePolarity,Positive*
+G04*
+G01*
+G75*
+%ADD37C,0.5000*%
+D37*
+X0Y0D02*
+X456000D01*
+Y432000D01*
+X0D02*
+X456000D01*
+X0Y0D02*
+Y432000D01*
+M02*
