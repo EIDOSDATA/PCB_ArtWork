@@ -12,6 +12,7 @@ My First PCB_Project
 
 - 7805 3D
 ![7805_PCB_3D](https://user-images.githubusercontent.com/48746729/103326865-9f696880-4a95-11eb-9cc1-a22f95068648.png)
+![7805 3D_BACK](https://user-images.githubusercontent.com/48746729/114135741-a7faf600-9944-11eb-99de-f5125eaa0853.png)
 
 
 ATMEGA128A-AU PCB_Project image
