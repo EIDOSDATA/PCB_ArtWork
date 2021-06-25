@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=Main_Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Main_Sheet.SchDoc|FileName=Sensor.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Main_Sheet.SchDoc|FileName=SPBTLE-RF_BlueTooth_Module.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Main_Sheet.SchDoc|FileName=USB_BAT.SchDoc|SheetNumber=3
